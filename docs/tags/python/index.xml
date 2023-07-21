@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Siya Pathak</title>
+    <link>https://siya-pathak.github.io/tags/python/</link>
+    <description>Recent content in Python on Siya Pathak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Jan 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://siya-pathak.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hackathon Team Project: Pizzabae (1st Runner-Up)</title>
+      <link>https://siya-pathak.github.io/projects/project-6/</link>
+      <pubDate>Sun, 29 Jan 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://siya-pathak.github.io/projects/project-6/</guid>
+      <description>PizzaBae is a simple and user-friendly chatbot built on Telegram that helps customers order pizza quickly and easily.
+Customers can interact with PizzaBae via natural language, which makes it easier to navigate through the ordering process. Users simply message the chatbot, and it guides them through the process of selecting their preferred toppings, size, and crust, and then places the order for them. On finalizing of the order the customer is redirected to the checkout page.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrap on Siya Pathak</title>
+    <link>https://siya-pathak.github.io/tags/bootstrap/</link>
+    <description>Recent content in Bootstrap on Siya Pathak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Sep 2022 11:14:48 -0400</lastBuildDate><atom:link href="https://siya-pathak.github.io/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hackathon Team Project: Purge (Top 10)</title>
+      <link>https://siya-pathak.github.io/projects/project-4/</link>
+      <pubDate>Wed, 28 Sep 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://siya-pathak.github.io/projects/project-4/</guid>
+      <description>This was built as part of a hackathon by team of 4.
+Users have an option to schedule a waste pickup request, at a particular date and time at his chosen location (via map or geolocation). The pickup request can be no less than 24 hours in advance. Users can mention the amount of waste for disposal, choose what categories of waste are present for disposal as well as optionally snap a picture of the waste.</description>
+    </item>
+    
+    <item>
+      <title>Project: tvCraze</title>
+      <link>https://siya-pathak.github.io/projects/project-2/</link>
+      <pubDate>Sat, 16 Jul 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://siya-pathak.github.io/projects/project-2/</guid>
+      <description>I built this project to practice using more APIs and playing around with them.
+So what does this project do?
+It searches and produces results for a TV Show by fetching results from the TVmaze API. Used axios to handle the transfer of request and response data.
+Here&amp;#39;s what it looks like when you land on the website Link to the GitHub repository
+Live demo of the project</description>
+    </item>
+    
+    <item>
+      <title>Project: scoreKeeper</title>
+      <link>https://siya-pathak.github.io/projects/project-3/</link>
+      <pubDate>Mon, 11 Jul 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://siya-pathak.github.io/projects/project-3/</guid>
+      <description>I built this project to understand working of JavaScript.
+So what is this one about?
+A scorekeeper widget for Ping Pong, a game of two. The widget keeps tab of the live scores. It also provides the user with a maximum score up to which the game will be played and a reset button to start all over. Link to the GitHub repository
+Live demo of the project</description>
+    </item>
+    
+  </channel>
+</rss>
