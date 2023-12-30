@@ -7,12 +7,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://siya-pathak.github.io/projects/project-8/</loc>
+    <loc>https://siya-pathak.github.io/tags/flask/</loc>
     <lastmod>2023-12-28T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://siya-pathak.github.io/tags/html/</loc>
+    <lastmod>2023-12-28T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://siya-pathak.github.io/tags/javascript/</loc>
     <lastmod>2023-12-28T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -27,7 +32,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://siya-pathak.github.io/tags/react/</loc>
+    <loc>https://siya-pathak.github.io/projects/project-8/</loc>
     <lastmod>2023-12-28T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -37,27 +42,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://siya-pathak.github.io/tags/tailwind-css/</loc>
-    <lastmod>2023-12-28T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://siya-pathak.github.io/tags/flask/</loc>
-    <lastmod>2023-12-17T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://siya-pathak.github.io/tags/javascript/</loc>
-    <lastmod>2023-12-17T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://siya-pathak.github.io/projects/project-7/</loc>
     <lastmod>2023-12-17T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://siya-pathak.github.io/projects/project-6/</loc>
+    <lastmod>2023-01-29T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://siya-pathak.github.io/tags/react/</loc>
+    <lastmod>2023-01-29T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://siya-pathak.github.io/tags/tailwind-css/</loc>
     <lastmod>2023-01-29T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
