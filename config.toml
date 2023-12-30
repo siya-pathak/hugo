@@ -43,9 +43,5 @@ url = "https://github.com/siya-pathak"
 name = "linkedin"
 url = "https://www.linkedin.com/in/siya-pathak/"
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/supitssiya"
-
 [markup.goldmark.renderer]
 unsafe= true

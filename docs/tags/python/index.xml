@@ -6,16 +6,28 @@
     <description>Recent content in Python on Siya Pathak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Jan 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://siya-pathak.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Dec 2023 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://siya-pathak.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hackathon Team Project: Pizzabae (1st Runner-Up)</title>
+      <link>https://siya-pathak.github.io/projects/project-8/</link>
+      <pubDate>Thu, 28 Dec 2023 11:25:05 -0400</pubDate>
+      <guid>https://siya-pathak.github.io/projects/project-8/</guid>
+      <description>PizzaBae is a simple and user-friendly chatbot built on Telegram that helps customers order pizza quickly and easily.&#xA;Customers can interact with PizzaBae via natural language, which makes it easier to navigate through the ordering process. Users simply message the chatbot, and it guides them through the process of selecting their preferred toppings, size, and crust, and then places the order for them. On finalizing of the order the customer is redirected to the checkout page.</description>
+    </item>
+    <item>
+      <title>PriceForReal-Property Price Predictor</title>
+      <link>https://siya-pathak.github.io/projects/project-7/</link>
+      <pubDate>Sun, 17 Dec 2023 11:25:05 -0400</pubDate>
+      <guid>https://siya-pathak.github.io/projects/project-7/</guid>
+      <description>Objective: Employ supervised learning to predict housing prices using a machine learning model sourced from a Kaggle dataset.&#xA;Analysis and Model Creation: Detailed analysis and model creation process documented in the accompanying .ipynb file.&#xA;Key Packages Used: Leveraged fundamental libraries such as numpy, pandas, matplotlib, seaborn, and sklearn for data manipulation, visualization, and model development.&#xA;Web Application Development: Constructed a user-friendly web app using HTML, CSS, JavaScript, and Flask, facilitating interactive housing price predictions.</description>
+    </item>
     <item>
       <title>Hackathon Team Project: Pizzabae (1st Runner-Up)</title>
       <link>https://siya-pathak.github.io/projects/project-6/</link>
       <pubDate>Sun, 29 Jan 2023 11:25:05 -0400</pubDate>
-      
       <guid>https://siya-pathak.github.io/projects/project-6/</guid>
-      <description>PizzaBae is a simple and user-friendly chatbot built on Telegram that helps customers order pizza quickly and easily.
-Customers can interact with PizzaBae via natural language, which makes it easier to navigate through the ordering process. Users simply message the chatbot, and it guides them through the process of selecting their preferred toppings, size, and crust, and then places the order for them. On finalizing of the order the customer is redirected to the checkout page.</description>
+      <description>PizzaBae is a simple and user-friendly chatbot built on Telegram that helps customers order pizza quickly and easily.&#xA;Customers can interact with PizzaBae via natural language, which makes it easier to navigate through the ordering process. Users simply message the chatbot, and it guides them through the process of selecting their preferred toppings, size, and crust, and then places the order for them. On finalizing of the order the customer is redirected to the checkout page.</description>
     </item>
-    
   </channel>
 </rss>

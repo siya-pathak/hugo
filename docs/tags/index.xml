@@ -6,96 +6,84 @@
     <description>Recent content in Tags on Siya Pathak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Jan 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://siya-pathak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Dec 2023 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://siya-pathak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS</title>
       <link>https://siya-pathak.github.io/tags/css/</link>
-      <pubDate>Sun, 29 Jan 2023 11:25:05 -0400</pubDate>
-      
+      <pubDate>Thu, 28 Dec 2023 11:25:05 -0400</pubDate>
       <guid>https://siya-pathak.github.io/tags/css/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HTML</title>
       <link>https://siya-pathak.github.io/tags/html/</link>
-      <pubDate>Sun, 29 Jan 2023 11:25:05 -0400</pubDate>
-      
+      <pubDate>Thu, 28 Dec 2023 11:25:05 -0400</pubDate>
       <guid>https://siya-pathak.github.io/tags/html/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Python</title>
       <link>https://siya-pathak.github.io/tags/python/</link>
-      <pubDate>Sun, 29 Jan 2023 11:25:05 -0400</pubDate>
-      
+      <pubDate>Thu, 28 Dec 2023 11:25:05 -0400</pubDate>
       <guid>https://siya-pathak.github.io/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>React</title>
       <link>https://siya-pathak.github.io/tags/react/</link>
-      <pubDate>Sun, 29 Jan 2023 11:25:05 -0400</pubDate>
-      
+      <pubDate>Thu, 28 Dec 2023 11:25:05 -0400</pubDate>
       <guid>https://siya-pathak.github.io/tags/react/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tailwind CSS</title>
       <link>https://siya-pathak.github.io/tags/tailwind-css/</link>
-      <pubDate>Sun, 29 Jan 2023 11:25:05 -0400</pubDate>
-      
+      <pubDate>Thu, 28 Dec 2023 11:25:05 -0400</pubDate>
       <guid>https://siya-pathak.github.io/tags/tailwind-css/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Flask</title>
+      <link>https://siya-pathak.github.io/tags/flask/</link>
+      <pubDate>Sun, 17 Dec 2023 11:25:05 -0400</pubDate>
+      <guid>https://siya-pathak.github.io/tags/flask/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://siya-pathak.github.io/tags/javascript/</link>
+      <pubDate>Sun, 17 Dec 2023 11:25:05 -0400</pubDate>
+      <guid>https://siya-pathak.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Express</title>
       <link>https://siya-pathak.github.io/tags/express/</link>
       <pubDate>Tue, 17 Jan 2023 11:15:58 -0400</pubDate>
-      
       <guid>https://siya-pathak.github.io/tags/express/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://siya-pathak.github.io/tags/javascript/</link>
-      <pubDate>Tue, 17 Jan 2023 11:15:58 -0400</pubDate>
-      
-      <guid>https://siya-pathak.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>MongoDB</title>
       <link>https://siya-pathak.github.io/tags/mongodb/</link>
       <pubDate>Tue, 17 Jan 2023 11:15:58 -0400</pubDate>
-      
       <guid>https://siya-pathak.github.io/tags/mongodb/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nodejs</title>
       <link>https://siya-pathak.github.io/tags/nodejs/</link>
       <pubDate>Tue, 17 Jan 2023 11:15:58 -0400</pubDate>
-      
       <guid>https://siya-pathak.github.io/tags/nodejs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Bootstrap</title>
       <link>https://siya-pathak.github.io/tags/bootstrap/</link>
       <pubDate>Wed, 28 Sep 2022 11:14:48 -0400</pubDate>
-      
       <guid>https://siya-pathak.github.io/tags/bootstrap/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

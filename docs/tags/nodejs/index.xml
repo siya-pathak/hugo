@@ -6,27 +6,21 @@
     <description>Recent content in Nodejs on Siya Pathak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jan 2023 11:15:58 -0400</lastBuildDate><atom:link href="https://siya-pathak.github.io/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 11:15:58 -0400</lastBuildDate>
+    <atom:link href="https://siya-pathak.github.io/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hackathon Team Project: i-IGDTUW (2nd Runner Up)</title>
       <link>https://siya-pathak.github.io/projects/project-5/</link>
       <pubDate>Tue, 17 Jan 2023 11:15:58 -0400</pubDate>
-      
       <guid>https://siya-pathak.github.io/projects/project-5/</guid>
-      <description>This was built as part of a hackathon by a team of 4.
-The web portal aims to provide a platform for the students of Indira Gandhi Delhi Technical University for Women (IGDTUW) to read and access blogs, articles, and papers, written by their peers at the university. The fundamental driving force behind this concept is to encourage technical writing among students and to increase peer reading and accessibility of university students&amp;rsquo; papers.</description>
+      <description>This was built as part of a hackathon by a team of 4.&#xA;The web portal aims to provide a platform for the students of Indira Gandhi Delhi Technical University for Women (IGDTUW) to read and access blogs, articles, and papers, written by their peers at the university. The fundamental driving force behind this concept is to encourage technical writing among students and to increase peer reading and accessibility of university students&amp;rsquo; papers.</description>
     </item>
-    
     <item>
       <title>Project: Netflix Clone</title>
       <link>https://siya-pathak.github.io/projects/project-1/</link>
       <pubDate>Tue, 23 Aug 2022 10:58:08 -0400</pubDate>
-      
       <guid>https://siya-pathak.github.io/projects/project-1/</guid>
-      <description>This netflix clone is a dynamic site, runs on a Node.js server and uses TMDB API for all data.
-Looks similar to Netflix. This dynamic site runs on Node.js server. All data is fetched from the TMDB API. Dedicated dynamic movies information page. Has movie trailers, and recommendations. Has the smooth card slider effect. The home page of the netflix clone Link to the GitHub repository
-Live demo of the project</description>
+      <description>This netflix clone is a dynamic site, runs on a Node.js server and uses TMDB API for all data.&#xA;Looks similar to Netflix. This dynamic site runs on Node.js server. All data is fetched from the TMDB API. Dedicated dynamic movies information page. Has movie trailers, and recommendations. Has the smooth card slider effect. The home page of the netflix clone Link to the GitHub repository&#xA;Live demo of the project</description>
     </item>
-    
   </channel>
 </rss>

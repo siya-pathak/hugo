@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask on Siya Pathak</title>
+    <link>https://siya-pathak.github.io/tags/flask/</link>
+    <description>Recent content in Flask on Siya Pathak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Dec 2023 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://siya-pathak.github.io/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PriceForReal-Property Price Predictor</title>
+      <link>https://siya-pathak.github.io/projects/project-7/</link>
+      <pubDate>Sun, 17 Dec 2023 11:25:05 -0400</pubDate>
+      <guid>https://siya-pathak.github.io/projects/project-7/</guid>
+      <description>Objective: Employ supervised learning to predict housing prices using a machine learning model sourced from a Kaggle dataset.&#xA;Analysis and Model Creation: Detailed analysis and model creation process documented in the accompanying .ipynb file.&#xA;Key Packages Used: Leveraged fundamental libraries such as numpy, pandas, matplotlib, seaborn, and sklearn for data manipulation, visualization, and model development.&#xA;Web Application Development: Constructed a user-friendly web app using HTML, CSS, JavaScript, and Flask, facilitating interactive housing price predictions.</description>
+    </item>
+  </channel>
+</rss>
